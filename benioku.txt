@@ -1,0 +1,12 @@
+1 - EKRAN ÇÖZÜNÜRLÜĞÜ HAKKINDA NOT:
+Programın arayüzü, en az 120 sütunluk bir genişliğe ihtiyaç duymaktadır.
+Farklı çözünürlüklerdeki monitörlerde grafiksel bozulmaları önlemek ve kodun taşınabilirliğini korumak amacıyla, 
+otomatik boyutlandırma komutunu (system mode con) kullanmamayı tercih ettim.
+Lütfen çizimleri doğru görüntüleyebilmek için konsol penceresini manuel olarak tam ekran yapınız.
+
+2 - KAYIT VE ÇIKIŞ İŞLEMİ HAKKINDA ÖNEMLİ UYARI:
+Programdan çıkış yaparken pencerenin sağ üst köşesindeki "X" (kapat) tuşuna basarsanız, 
+yapılan değişiklikler dosyaya KAYDEDİLMEZ.
+Program, verileri sadece "ESC" tuşu ile güvenli çıkış yapıldığında dosyaya yazmaktadır. 
+Lütfen çalışmalarınızın kaybolmaması için programı "ESC" tuşu ile sonlandırınız.
+
