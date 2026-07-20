@@ -125,6 +125,4 @@ The project also demonstrates the use of:
 
 ---
 
-For more academic projects, visit my **Computer Engineering Projects** repository:
-
-https://github.com/Lucaskatalahali/computer-engineering-projects
+For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
