@@ -66,7 +66,7 @@ The entire scene hierarchy—including every node, shape, position, size, drawin
 
 ### Scene After Editing
 
-The rectangles were moved to the left, the star was positioned at the center, and the triangles were moved to the right.
+The rectangles were moved to the left, the star/diamond was positioned at the center, and the triangles were moved to the right.
 
 ![Scene After Editing](assets/edited-scene.png)
 
