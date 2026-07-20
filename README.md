@@ -8,7 +8,7 @@ The application is an interactive ASCII scene editor that allows users to naviga
 
 ---
 
-## 🛠 Technologies And Concepts
+## 🛠 Technologies
 
 - C++
 - Object-Oriented Programming (OOP)
