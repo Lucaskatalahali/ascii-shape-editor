@@ -1,9 +1,10 @@
 # 🎨 ASCII Shape Editor (Console Application)
 
-[![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)](https://github.com/Lucaskatalahali/computer-engineering-projects)
-[![Grade](https://img.shields.io/badge/Grade-100%2F100-success)](https://github.com/Lucaskatalahali/ascii-shape-editor)
+![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 
-> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)** at Sakarya University.
+![Course](https://img.shields.io/badge/Course-Data_Structures-blue)
+
+> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
 
 The application is an interactive ASCII scene editor developed for the **Data Structures** course. It allows users to navigate through nested linked lists, manipulate geometric shapes, and render them in real time inside a character-based console buffer.
 
