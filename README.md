@@ -1,10 +1,11 @@
 # 🎨 ASCII Shape Editor (Console Application)
 
-Academic project developed during my second year of the **Computer Engineering degree at Sakarya Üniversitesi**.
+[![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)](https://github.com/Lucaskatalahali/computer-engineering-projects)
+[![Grade](https://img.shields.io/badge/Grade-100%2F100-success)](https://github.com/Lucaskatalahali/ascii-shape-editor)
 
-This project was developed for the **Data Structures** course using **C++**, **Object-Oriented Programming**, and **custom linked data structures**.
+> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)** at Sakarya University.
 
-The application is an interactive ASCII scene editor that allows users to navigate through nested linked lists, manipulate geometric shapes, and render them in real time inside a character-based console buffer.
+The application is an interactive ASCII scene editor developed for the **Data Structures** course. It allows users to navigate through nested linked lists, manipulate geometric shapes, and render them in real time inside a character-based console buffer.
 
 ---
 
@@ -107,22 +108,27 @@ The Makefile automatically:
 
 ---
 
-## 📌 Notes
+## 🎓 Academic Information
 
-This repository preserves the original academic project developed for the **Data Structures** course.
-
-As required by the assignment, the project **does not use STL containers** (such as `std::vector` or `std::list`). All linked data structures — including the nested lists used to manage the scene — were implemented from scratch.
-
-The project also demonstrates the use of:
-
-- Dynamic memory management
-- Doubly and singly linked lists
-- Inheritance
-- Polymorphism
-- Abstract classes
-- File persistence
-- Custom rendering through a character buffer
+- **University:** Sakarya Üniversitesi
+- **Department:** Computer Engineering
+- **Course:** Data Structures
+- **Academic Year:** 2025–2026
+- **Project Grade:** **100/100**
 
 ---
 
-For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
+## 📌 Technical Highlights
+
+As required by the assignment, this project **does not use STL containers** (such as `std::vector` or `std::list`). All linked data structures were implemented completely from scratch.
+
+Key concepts implemented:
+- Dynamic memory management
+- Doubly and singly linked lists
+- Inheritance & Polymorphism
+- Abstract classes
+- File persistence & custom buffer rendering
+
+---
+
+🔗 For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
