@@ -6,7 +6,7 @@
 
 > 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
 
-The application is an interactive ASCII scene editor developed for the **Data Structures** course. It allows users to navigate through nested linked lists, manipulate geometric shapes, and render them in real time inside a character-based console buffer.
+The application is an interactive ASCII scene editor that allows users to navigate through nested linked lists, manipulate geometric shapes, and render them in real time inside a character-based console buffer.
 
 ---
 
