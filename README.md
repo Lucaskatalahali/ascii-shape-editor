@@ -109,16 +109,6 @@ The Makefile automatically:
 
 ---
 
-## 🎓 Academic Information
-
-- **University:** Sakarya Üniversitesi
-- **Department:** Computer Engineering
-- **Course:** Data Structures
-- **Academic Year:** 2025–2026
-- **Project Grade:** **100/100**
-
----
-
 ## 📌 Technical Highlights
 
 As required by the assignment, this project **does not use STL containers** (such as `std::vector` or `std::list`). All linked data structures were implemented completely from scratch.
